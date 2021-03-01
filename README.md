@@ -1,6 +1,8 @@
 # advanced-machine-learning
 notes for Advanced Machine Learning course
 
+[timeline and grading](intro.pdf)
+
 ## laboratory classes
 1. handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
