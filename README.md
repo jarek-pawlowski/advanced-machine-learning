@@ -3,6 +3,9 @@ notes for Advanced Machine Learning course
 
 [timeline and grading](intro.pdf)
 
+## lecture notes:
+[machine learning fundamentals](ML_fundamentals.pdf)
+
 ## laboratory classes
 1. handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
@@ -11,6 +14,8 @@ notes for Advanced Machine Learning course
 - regularization, early stopping
 
 [Colab notebook](mnist_in_3_flavours.ipynb)
+
+![overfitted model](Deep.png)
 
 2. ECG signal classification
 - feature vectors
