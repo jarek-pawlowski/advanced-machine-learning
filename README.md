@@ -4,7 +4,8 @@ notes for Advanced Machine Learning course
 [timeline and grading](intro.pdf)
 
 ## lecture notes:
-[machine learning fundamentals](ML_fundamentals.pdf)
+- [machine learning fundamentals](ML_fundamentals.pdf)
+- [decision trees](Decision_Trees.pdf)
 
 ## laboratory classes
 1. handwritten digits classification using MNIST dataset with Pytorch
@@ -28,7 +29,5 @@ notes for Advanced Machine Learning course
 - one-shot style transfer
 
 ## proposed seminars topics
-
 - [list of proposed topics](seminars_topics.pdf)
-
 - [link to form with seminars dates](https://docs.google.com/spreadsheets/d/17XoAvYHBRc47nQX9PUHcMtEvUUeJ1rTfJIYHQU3FNUA/edit?usp=sharing) 
