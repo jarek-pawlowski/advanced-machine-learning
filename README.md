@@ -6,6 +6,7 @@ notes for Advanced Machine Learning course
 ## lecture notes:
 - [machine learning fundamentals](ML_fundamentals.pdf)
 - [decision trees](Decision_Trees.pdf)
+- [deep neural networks](Deep_NNs.pdf)
 
 ## laboratory classes
 1. handwritten digits classification using MNIST dataset with Pytorch
