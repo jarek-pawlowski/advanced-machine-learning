@@ -9,7 +9,7 @@ notes for Advanced Machine Learning course
 - [deep neural networks](Deep_NNs.pdf)
 
 ## laboratory classes
-1. handwritten digits classification using MNIST dataset with Pytorch
+1. Handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
 - various activations,
 - overfitting,
@@ -20,8 +20,13 @@ notes for Advanced Machine Learning course
 ![overfitted model](Deep.png)
 
 2. ECG signal classification
+- classifiers comparison: SVM, decision trees, random forests
 - feature vectors
-- classifiers, decision trees 
+
+[Colab notebook](ecg_classification.ipynb)
+
+![ecg arrhythimas](signals.png)
+
 3. Image classification using advanced deep NN
 - VGG, ResNet
 - How NN see the world?
