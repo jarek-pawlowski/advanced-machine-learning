@@ -28,9 +28,13 @@ notes for Advanced Machine Learning course
 
 ![ecg arrhythimas](signals.png)
 
-3. Image classification using advanced deep NN
+3. Image classification using deep CNNs
 - VGG, ResNet
-- How NN see the world?
+
+[Colab notebook](advancedCNNs.ipynb)
+
+![ecg arrhythimas](VGGs.png)
+
 4. Augmentation in image processing
 - geometric transformations
 - one-shot style transfer
