@@ -37,10 +37,16 @@ notes for Advanced Machine Learning course
 
 ![ecg arrhythimas](VGGs.png)
 
-4. Augmentation in image processing
-- geometric transformations
-- one-shot style transfer
-
+4. Augmentation in image processing, two separated tasks:
+- take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs)
+- play with one-shot style transfer, understand the idea and run some exemplary code
+> * papers:
+>   * [Gatys original paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+>   * https://arxiv.org/pdf/1904.11617v1.pdf 
+> * code:
+>   * https://github.com/limingcv/Photorealistic-Style-Transfer 
+>   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
+    
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
 - [link to form with seminars dates](https://docs.google.com/spreadsheets/d/17XoAvYHBRc47nQX9PUHcMtEvUUeJ1rTfJIYHQU3FNUA/edit?usp=sharing) 
