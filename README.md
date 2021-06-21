@@ -10,6 +10,7 @@ notes for Advanced Machine Learning course
 - [convolutional neural networks](CNNs.pdf)
 - computer vision meets deep learning: [part1](CV1.pdf), [part2](CV2.pdf)
 - [recurrent neural networks and attention](RNNs.pdf)
+- [autoencoders and GANs](GANs.pdf)
 
 ## laboratory classes
 1. Handwritten digits classification using MNIST dataset with Pytorch
