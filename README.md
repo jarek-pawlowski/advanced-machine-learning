@@ -27,7 +27,7 @@ notes for Advanced Machine Learning course
 - classifiers comparison: SVM, decision trees, random forests
 - feature vectors
 
-[Colab notebook](ecg_classification.ipynb)
+[Colab notebook](https://github.com/jarek-pawlowski/machine-learning-applications/blob/main/ecg_classification.ipynb)
 
 ![ecg arrhythimas](signals.png)
 
